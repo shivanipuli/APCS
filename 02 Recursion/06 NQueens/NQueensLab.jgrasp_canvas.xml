@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>locationIsOK</Name>
+    <Signature>(Ledu/kzoo/grid/Location;)Z</Signature>
+    <DeclaringType>NQueens</DeclaringType>
+    <Depth>9</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>30</X>
+      <Y>40</Y>
+      <W>159</W>
+      <H>80</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local edu.kzoo.grid.Location` l</Expression>
+      <ViewerClass>_X_ElementView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>255</W>
+    <H>236</H>
+  </Size>
+  <ESize>
+    <W>255</W>
+    <H>236</H>
+  </ESize>
+</Canvas>
